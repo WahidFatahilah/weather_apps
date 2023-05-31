@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508832840452",
+    "project_id": "weathertapps",
+    "storage_bucket": "weathertapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508832840452:android:440d0a2fa301788bf16e51",
+        "android_client_info": {
+          "package_name": "com.wahid.weatherapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508832840452-9ovrqu8d7o4kea313n25rtrsijcsn4ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZ9fxirXeEDXH9fdFi8qG7IKv33Q0b74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508832840452-9ovrqu8d7o4kea313n25rtrsijcsn4ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
